@@ -8,7 +8,7 @@ from enum import Enum
 WS_EVENT = "ws_event"
 
 # URLS: BEGIN
-URL_BASE = "https://www.alarm.com/"
+URL_BASE = "https://smarthome-security.telus.com/"
 PROVIDER_INFO_TEMPLATE = "{}/web/api/appload"
 TROUBLECONDITIONS_URL_TEMPLATE = "{}web/api/troubleConditions/troubleConditions?forceRefresh=false"
 IMAGE_SENSOR_DATA_URL_TEMPLATE = "{}/web/api/imageSensor/imageSensorImages/getRecentImages"
